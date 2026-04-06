@@ -8,16 +8,16 @@
 
 ## Deskripsi Proyek
 Proyek ini merupakan hasil modifikasi halaman utama website Fakultas Teknik Universitas Riau (FT UNRI) yang bertujuan untuk meningkatkan tampilan visual, responsivitas, serta pengalaman pengguna. Redesain dilakukan dengan menggunakan teknologi HTML, CSS, JavaScript, dan framework Bootstrap sebagai bagian dari materi praktikum front-end web. Website yang sebelumnya memiliki tampilan cukup padat dan kurang fleksibel di berbagai perangkat, diperbaiki menjadi lebih modern dan terstruktur. Seluruh perubahan dilakukan secara bertahap oleh anggota kelompok dengan memanfaatkan sistem version control GitHub. Setiap bagian yang dimodifikasi memiliki tujuan tertentu agar website menjadi lebih efektif dalam menyampaikan informasi. Dengan adanya redesain ini, diharapkan pengguna dapat mengakses website dengan lebih nyaman dan efisien.
----
+
 ## Teknologi yang Digunakan
 1. HTML
 2. CSS
 3. JavaScript
 4. Bootstrap
----
-## Perubahan
+
+## Perubahan yang sudah dimodifikasi
 Perubahan utama dalam proyek ini terletak pada peningkatan tampilan visual dan struktur halaman utama. Website dimodifikasi agar memiliki layout yang lebih rapi dan tidak terlalu padat seperti versi sebelumnya. Selain itu, diterapkan desain responsif agar tampilan dapat menyesuaikan berbagai ukuran layar. Penambahan efek interaktif juga dilakukan untuk meningkatkan pengalaman pengguna saat berinteraksi dengan website. Penggunaan Bootstrap membantu dalam mempercepat proses pengembangan serta menjaga konsistensi desain. Secara keseluruhan, proyek ini berfokus pada peningkatan kualitas tampilan dan kemudahan akses informasi.
----
+
 ## Bagian Modifikasi dan Alasan
 
 ### 1. Navbar
